@@ -37,9 +37,8 @@ const Gugudan = () => {
         <button>입력</button>
       </form>
       <div id="result">
-        {' '}
         {result}
-        <button>삭제</button>{' '}
+        <button>삭제</button>
       </div>
     </>
   );
