@@ -1,9 +1,7 @@
-**zerocho님 강의를 들으면서 실습하는 레포입니다**
+# Getting Started react-webgame
+
+**zerocho님 강의를 들으면서 실습하는 레포입니다**\
 **클래스 형, 함수형 컴포넌트로 각각의 실습 컴포넌트를 만들고 게임을 만들며 리액트 개념을 익힙니다.**
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
