@@ -28,7 +28,7 @@ const Gugudan = () => {
 
   return (
     <>
-      <div> hello </div>
+      <h2>구구단</h2>
       <span>
         {first}*{second}
       </span>
@@ -38,7 +38,6 @@ const Gugudan = () => {
       </form>
       <div id="result">
         {result}
-        <button>삭제</button>
       </div>
     </>
   );
