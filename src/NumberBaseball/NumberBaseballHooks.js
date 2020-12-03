@@ -64,6 +64,7 @@ const NumberBaseballHooks = () => {
   return (
     <>
       <h2>숫자야구 Hooks 사용하여 만들기</h2>
+      <p>{result}</p>
       <form onSubmit={onSubmitForm}>
         <input maxLength={4} value={value} onChange={onChangeInput} />
       </form>
