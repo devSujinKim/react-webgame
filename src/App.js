@@ -4,6 +4,7 @@ import WordRelayClass from './component/WordRelayClass';
 import WordRelayHooks from './component/WordRelayHooks';
 import NumberBaseball from './NumberBaseball/NumberBaseball';
 import NumberBaseballHooks from './NumberBaseball/NumberBaseballHooks';
+import ResponseCheck from './ResponseCheck/ResponseCheck';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <WordRelayHooks />
       <NumberBaseball />
       <NumberBaseballHooks />
+      <ResponseCheck />
     </>
   );
 }
