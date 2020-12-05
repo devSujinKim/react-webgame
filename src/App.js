@@ -6,6 +6,8 @@ import NumberBaseball from './NumberBaseball/NumberBaseball';
 import NumberBaseballHooks from './NumberBaseball/NumberBaseballHooks';
 import ResponseCheck from './ResponseCheck/ResponseCheck';
 import ResponseCheckHooks from './ResponseCheck/ResponseCheckHooks';
+import Rsp from './RSP/Rsp';
+import RspHooks from './RSP/RspHooks';
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
       <NumberBaseballHooks />
       <ResponseCheck />
       <ResponseCheckHooks />
+      <Rsp />
+      <RspHooks />
     </>
   );
 }
